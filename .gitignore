@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+resources/jarvis/
+dist/
+*.log
+data/
+local-speech-openvoice/
+.cache/
+.DS_Store
+Thumbs.db
+keys.txt
